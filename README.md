@@ -1,6 +1,6 @@
 # 🛠️ TKJ Skamuda Helper 📱
 
-**Buku Saku Digital Wajib Siswa SMK Jurusan Teknik Komputer & Jaringan (TKJ)**
+**Buku Saku Digital Siswa SMK Jurusan Teknik Komputer & Jaringan (TKJ)**
 
 [![Expo Build](https://img.shields.io/badge/Expo-Build-8A2BE2?logo=expo&logoColor=white)](https://expo.dev/projects/ddb3a9b0-8311-45b1-bba9-3856df1042b0)
 [![React Native](https://img.shields.io/badge/React_Native-0.81-blue?logo=react&logoColor=white)](https://reactnative.dev)
@@ -82,11 +82,9 @@ Untuk versi Android:
 
 ## 👨‍💻 Kontributor
 
-- **Galih Aditya Yoga** (Lead Developer & UI Designer)
+- **Galih Aditya Yoga** (Lead Developer)
 
 ---
 
 > [!NOTE]
-> Aplikasi ini dikembangkan untuk tujuan edukasi dan membantu siswa SMK TKJ di seluruh Indonesia agar lebih produktif saat praktikum di Lab.
-
-Made with ❤️ for SMK TKJ Indonesia.
+> Aplikasi ini dikembangkan untuk tujuan edukasi dan membantu siswa SMK TKJ di Skamuda agar lebih produktif saat praktikum di Lab.
