@@ -46,7 +46,7 @@ Aplikasi ini mengadopsi estetika **SK-Modernist** yang premium:
 ## 🚀 Coba Sekarang (Live Demo)
 
 Anda bisa mencoba versi Web secara langsung di:
-👉 **[TKJ Skamuda Helper - Web Demo](https://tkj-skamuda-helper--md428l0bum.expo.app)**
+👉 **[TKJ Skamuda Helper - Web Demo](https://tkj-skamuda-helper--md428l0bum.expo.app)** ( Kurang Maksimal )
 
 Untuk versi Android:
 👉 **[Download .apk Terbaru](https://drive.google.com/uc?id=1c9nozUK6ZsIYT82UxGiDZQLU-X0ApPqv)**
